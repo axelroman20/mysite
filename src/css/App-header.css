@@ -1,0 +1,35 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background: url('../assets/backgrond.png');
+}
+
+.App-header-text {
+  margin: 0px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-header-text h1 {
+  font-size: calc(50px + 2vmin);
+  color: #30ad41;
+}
+
+.App-header-text p {
+  font-size: calc(15px + 2vmin);
+  font-weight: bold;
+  line-height: 38px;
+} 
+
