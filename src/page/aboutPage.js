@@ -53,7 +53,7 @@ export const AboutPage = () => {
           Backend.</p>
         <p>I am always looking to improve my skills to be at the forefront because in this world, developers
           developers never stop studying and learning new things!</p>
-        <button>Download CV</button>
+        {/* <button>Download CV</button> */}
       </div>
     </div>
   )
