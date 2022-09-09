@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import { HeaderPage } from './page/headerPage';
+import { AboutPage } from './page/aboutPage';
+import { NavbarWidget } from './widget/navbar';
+import { Helmet } from "react-helmet";
+
+import './css/App.css';
+import favicon from './assets/favicon.ico';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <Helmet>
+        <html lang="en" />
+        <title>Axel Roman</title>
+        <meta name="theme-color" content="#E6E6FA" />
+        <link rel="icon" type="image/png" href={favicon} sizes="16x16" />
+      </Helmet>
+
+      <NavbarWidget />
+      <HeaderPage />
+      <AboutPage />
     </div>
   );
 }

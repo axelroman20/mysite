@@ -1,0 +1,88 @@
+.App-about {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-about .skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40vw;
+  height: 500px;
+}
+
+.App-about .skills .frontend {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px;
+}
+.App-about .skills .frontend img {
+  margin: 0px 10px;
+}
+.App-about .skills .backend {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px;
+}
+.App-about .skills .backend img {
+  margin: 0px 10px;
+}
+.App-about .skills .more {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px;
+}
+.App-about .skills .more img {
+  margin: 0px 10px;
+}
+
+.App-about .skills h3 {
+  color: #30AD41;
+}
+
+.App-about .text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40vw;  
+  height: 500px;
+}
+
+.App-about .text h3 {
+  color: #30AD41;
+}
+.App-about .text p {
+  margin: 2%;
+  text-align: justify;
+}
+
+.App-about .text button {
+  background-color: #30AD41;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 20px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.App-about .text button:hover {
+  background-color: #247c2f;
+}
+
