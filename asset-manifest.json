@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.98fc5667.css",
+    "main.js": "/mysite/static/js/main.658bafee.js",
+    "static/media/background.jpg": "/mysite/static/media/background.50754cbe95a9f0d10a88.jpg",
+    "static/media/logo.svg": "/mysite/static/media/logo.c581baddeb8a3ce0c316312a25005abd.svg",
+    "static/media/icon_postgresql.svg": "/mysite/static/media/icon_postgresql.ed0178c842b6c2c829e37280948aefbf.svg",
+    "static/media/icon_linux.svg": "/mysite/static/media/icon_linux.cd495a453d6e8b5f0b165898066959bd.svg",
+    "static/media/icon_react.svg": "/mysite/static/media/icon_react.b5cb2b288430674a33217252db2e7b6c.svg",
+    "static/media/favicon.ico": "/mysite/static/media/favicon.02439c4e80f2b8f45ead.ico",
+    "static/media/icon_mysql.svg": "/mysite/static/media/icon_mysql.33202d5f4f875f83a2e9239f6ab4ab36.svg",
+    "static/media/icon_android.svg": "/mysite/static/media/icon_android.b56bff0fa055858a990f0427fe9d78c0.svg",
+    "static/media/icon_vscode.svg": "/mysite/static/media/icon_vscode.f985a73560734a7f2df9eecdf38c10d6.svg",
+    "static/media/icon_php.svg": "/mysite/static/media/icon_php.4491a7ce985395a19c2f429bfe7ae52b.svg",
+    "static/media/icon_ubuntu.svg": "/mysite/static/media/icon_ubuntu.abee10aa35ec91061cf9dc33ce021685.svg",
+    "static/media/icon_javascript.svg": "/mysite/static/media/icon_javascript.4b3b30fdae6057b8dc6e2c3e0aa09e3d.svg",
+    "static/media/favicon.svg": "/mysite/static/media/favicon.446f68b533db291f103e32b82ad40c24.svg",
+    "static/media/icon_git.svg": "/mysite/static/media/icon_git.1d48894267a8c320f81d7a5d95f048f3.svg",
+    "static/media/icon_css.svg": "/mysite/static/media/icon_css.313b8204f7d4ca9f13a03b331eec0ff2.svg",
+    "static/media/icon_apple.svg": "/mysite/static/media/icon_apple.8de8f3230757f7232df9b41bdefed8e2.svg",
+    "static/media/icon_html.svg": "/mysite/static/media/icon_html.5d0d1dc4508a24aafab1942a3b5a0de2.svg",
+    "index.html": "/mysite/index.html",
+    "static/media/icon_flutter.svg": "/mysite/static/media/icon_flutter.611c44982da421b9f9533729cd4c9ac4.svg",
+    "main.98fc5667.css.map": "/mysite/static/css/main.98fc5667.css.map",
+    "main.658bafee.js.map": "/mysite/static/js/main.658bafee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98fc5667.css",
+    "static/js/main.658bafee.js"
+  ]
+}
